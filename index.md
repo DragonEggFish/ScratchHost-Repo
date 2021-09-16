@@ -4,3 +4,5 @@
 
 # If Scratch won't allow any other image hosts, how would you make it succsessful?
 ### We will convince the ST to know that this is a safe image host.
+
+Tester is in alpha (Since we haven't started working on it but a website) nor convinced the ST.
